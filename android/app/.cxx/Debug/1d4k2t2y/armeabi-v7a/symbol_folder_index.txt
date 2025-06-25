@@ -1,0 +1,1 @@
+C:\src\development\flash_chat\build\app\intermediates\cxx\Debug\1d4k2t2y\obj\armeabi-v7a

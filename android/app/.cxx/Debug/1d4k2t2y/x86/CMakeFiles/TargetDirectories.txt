@@ -1,0 +1,2 @@
+C:/src/development/flash_chat/android/app/.cxx/Debug/1d4k2t2y/x86/CMakeFiles/edit_cache.dir
+C:/src/development/flash_chat/android/app/.cxx/Debug/1d4k2t2y/x86/CMakeFiles/rebuild_cache.dir
